@@ -2,7 +2,7 @@
 
 I'm a Frontend developer.
 
-# My Core skills
+### My Core skills
 - JavaScript
 - TypeScript
 - React
@@ -12,7 +12,7 @@ I'm a Frontend developer.
 - Git
 - OpenSCAD (3D CAD for programmers)
 
-# My LeetCode
+### My LeetCode profile and solved tasks
 [![](https://badges.peiyuan.ch/leetcode/ilya-pro/ranking?logo=leetcode&label=Ilya%20Pro&style=for-the-badge&color=green)](https://leetcode.com/ilya-pro)
 [![](https://badges.peiyuan.ch/leetcode/ilya-pro/solved?logo=leetcode&label=Solved%20All&style=for-the-badge&color=green)](https://leetcode.com/ilya-pro)
 
