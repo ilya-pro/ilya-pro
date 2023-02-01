@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hi there 👋 I'm Ilya
+
+I'm a Frontend developer.
+
+# My Core skills
+- JavaScript
+- TypeScript
+- React
+- HTML
+- CSS | Less
+- Feature-Sliced Design
+- Git
+- OpenSCAD (3D CAD for programmers)
+
+# My LeetCode
+[![](https://badges.peiyuan.ch/leetcode/ilya-pro/ranking?logo=leetcode&label=Ilya%20Pro&style=for-the-badge&color=green)](https://leetcode.com/ilya-pro)
+[![](https://badges.peiyuan.ch/leetcode/ilya-pro/solved?logo=leetcode&label=Solved%20All&style=for-the-badge&color=green)](https://leetcode.com/ilya-pro)
 
 <!--
 **ilya-pro/ilya-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
