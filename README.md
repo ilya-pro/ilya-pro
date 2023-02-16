@@ -18,6 +18,7 @@ Git, Webstorm, Webpack, Docker
 VS Code, Fiddler, Jira, Confluence
 
 ### My LeetCode profile and solved tasks
+[LeetCode profile](https://leetcode.com/ilya-pro/)
 [![](https://badges.peiyuan.ch/leetcode/ilya-pro/ranking?logo=leetcode&label=Ilya%20Pro&style=for-the-badge&color=green)](https://leetcode.com/ilya-pro)
 [![](https://badges.peiyuan.ch/leetcode/ilya-pro/solved?logo=leetcode&label=Solved%20All&style=for-the-badge&color=green)](https://leetcode.com/ilya-pro)
 
