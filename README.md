@@ -6,13 +6,14 @@ I'm a Frontend developer.
 - JavaScript
 - TypeScript
 - React
+- Effector (state manager)
 - HTML
 - CSS | Less
 - Feature-Sliced Design
 - OpenSCAD (3D CAD for programmers)
 
 ### Tools what I'm using
-Git, Webstorm, Webpack, Docker
+Git, Webstorm, Webpack, Vite, Docker
 
 ### Tools what I've been used
 VS Code, Fiddler, Jira, Confluence
